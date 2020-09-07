@@ -9,7 +9,7 @@ body {
 .wrap {
   height: 720px;
   width: 100%;
-  background-image: url(./images/main-background.png);
+  background-image: url(/water-es.github.io/images/main-background.png);
   background-size: 100% 100%;
   background-position: center;
   display: flex;
